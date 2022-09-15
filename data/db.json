@@ -1,0 +1,61 @@
+{
+  "moviesList": [
+    {
+      "id": 2,
+      "movieName": "KGF 2",
+      "hero": "Yash",
+      "director": "Neel",
+      "genere": "action",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNaP-FTe8IaGNNeR6YRbvrSeUgi7yKJoG3VBhCgaWR&s"
+    },
+    {
+      "movieName": "Vikram",
+      "hero": "Kamal hassan",
+      "director": "lokesh jingalaka",
+      "genere": "action",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "movieName": "Charliee",
+      "hero": "Rakshit",
+      "director": "Kiran",
+      "genere": "drama , comedy"
+    },
+    {
+      "id": 5,
+      "movieName": "Galipata 2",
+      "hero": "ganesh",
+      "director": "yograj",
+      "genere": "comedy"
+    },
+    {
+      "movieName": "abcd",
+      "hero": "reetu",
+      "director": "mukund",
+      "genere": "drama",
+      "id": 7
+    },
+    {
+      "movieName": "mukund1",
+      "hero": "mukund",
+      "director": "mukund",
+      "genere": "mukund",
+      "id": 8
+    },
+    {
+      "movieName": "mukunda3",
+      "hero": "ananda",
+      "director": "govinda",
+      "genere": "drama",
+      "id": 9
+    },
+    {
+      "movieName": "xxx videos",
+      "hero": "mukundA",
+      "director": "MUKUND",
+      "genere": "18+",
+      "id": 10
+    }
+  ]
+}
